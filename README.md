@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the MedReminder Home Page
 
-You can use the [editor on GitHub](https://github.com/brianaus98/lgtow.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Link Here ](https://github.com/brianaus98/lgtow.github.io/edit/master/README.md) to view are Youtube video
+on how to use the app. We promise it is user friendly to ALL users!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
