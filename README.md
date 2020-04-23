@@ -16,19 +16,22 @@ Below are step by step instructions to get you set up with your very own-secured
 ![IMG_3031](https://user-images.githubusercontent.com/54367282/80047942-bc987100-84dc-11ea-8793-a89d951ac083.png)
 # Step 1
 
+![IMG_3039](https://user-images.githubusercontent.com/54367282/80047986-dc2f9980-84dc-11ea-9409-4df531708163.png)
+## Step 2
+
 ![IMG_3032](https://user-images.githubusercontent.com/54367282/80047280-01230d00-84db-11ea-8ef9-689b40497d67.png)
 
-## Step 2
+### Step 3
 ![IMG_3032](https://user-images.githubusercontent.com/54367282/80047311-19932780-84db-11ea-9581-86c6a96cd759.png)
 
-### Step 3
+#### Step 4
 ![IMG_3035](https://user-images.githubusercontent.com/54367282/80047341-316aab80-84db-11ea-8a4d-94fe5d3cf5a6.png)
 
-#### Step 4
+##### Step 5
 ![IMG_3036](https://user-images.githubusercontent.com/54367282/80047404-52330100-84db-11ea-9420-decad3df606e.png)
 
 
-##### Step 5
+###### Step 6
 ![IMG_3036](https://user-images.githubusercontent.com/54367282/80047607-deddbf00-84db-11ea-8cb3-3050288d73b8.png)
 
 ```markdown
