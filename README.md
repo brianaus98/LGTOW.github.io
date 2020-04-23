@@ -7,7 +7,7 @@ Please check out our Youtube video on how to use the app. We promise it is user 
 
 ### What is MedReminder
 
-MedReminder is an app accessible to all ages. It helps the user remember to take their medication at a scheduled time, keeping track of how much of their medication they have left, and when to get a refill before they run out.  MedReminder is meant to aid those whose lives are too hectic, whose minds are too wonderous, or whose memories are too brief to keep up with what is most important to all us...our health.  Because your privacy is one of our top priorities you will be required to set up a password and username so no one can just open up the app and look through your information.  This way you can feel safe putting in your personal information. Our goal for creating this app is to help users of all races, ages, and cultures to be able to stay on top of their health and we hope to be able to achieve this goal with you!
+MedReminder is an app accessible to all ages. It helps the user remember to take their medication at a scheduled time, keeping track of how much of their medication they have left, and when to get a refill before they run out.  MedReminder is meant to aid those whose lives are too hectic, whose minds are too wonderous, or whose memories are too brief to keep up with what is most important to all us...our health.  Because your privacy is one of our top priorities you will be required to set up a password and username so no one can just open up the app and look through your information.  This way you can feel safe putting in your personal information. Our goal for creating this app is to help users of all races, ages, and cultures be able to stay on top of their health and we hope to be able to achieve this goal with you!
 
 ### How To Get Started
 
@@ -41,7 +41,7 @@ If you don't like the original color scheme of the app you can change it to fit 
 ![IMG_3039](https://user-images.githubusercontent.com/54367282/80048368-f8800600-84dd-11ea-838e-1a86f9adf48e.png)
 
 ## Step 4
-The next step is to set up your schedule for take your prescriptions.  Hit the pills icon on the bottom right screen and it will open up to another page.  Click the plus sign at the top to add a prescription and fill out the necessary information.
+The next step is to set up your schedule for taking your prescriptions.  Hit the pills icon on the bottom right screen and it will open up to another page.  Click the plus sign at the top to add a prescription and fill out the necessary information.
 You can add and delete prescriptions as often as you like. You can also edit the information of your input.
 
 
@@ -49,7 +49,7 @@ You can add and delete prescriptions as often as you like. You can also edit the
 
 ## Step 5
 
-Once all this is done you can view your schedule on the calender.  The calender will highlight a prescription with a specific colored dot.  If you don't know what color dot represents what prescription you can look at the bottom of your screen and the name of your prescription will appear in a circle in the same color as the dot in the calender.  The calender will also highlight the days you are sceduled to take you prescription.  
+Once all this is done you can view your schedule in the calender.  The calender will highlight a prescription with a specific colored dot.  If you don't know what color dot represents what prescription you can look at the bottom of your screen and the name of your prescription will appear in a circle with the same color as the dot in the calender.  The calender will also highlight the days you are sceduled to take you prescription.  
 
 
 # Thank You For Choosing Our App
