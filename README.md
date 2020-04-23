@@ -13,12 +13,8 @@ MedReminder is an app available for all ages. It helps the user remind them to t
 Below are step by step instructions to get you set up with your very own-secured-MedReminder account, fill in your prescriptions, and set your reminder.  It sounds like a lot but it actually really simple straight forward!
 
 ![IMG_3032](https://user-images.githubusercontent.com/54367282/80047280-01230d00-84db-11ea-8ef9-689b40497d67.png)
-
-```markdown
-Syntax highlighted code block
-
-
 # Step 1
+
 ![IMG_3032](https://user-images.githubusercontent.com/54367282/80047280-01230d00-84db-11ea-8ef9-689b40497d67.png)
 
 ## Step 2
@@ -33,6 +29,9 @@ Syntax highlighted code block
 
 ##### Step 5
 ![IMG_3036](https://user-images.githubusercontent.com/54367282/80047607-deddbf00-84db-11ea-8cb3-3050288d73b8.png)
+
+```markdown
+Syntax highlighted code block
 
 - Bulleted
 - List
