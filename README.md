@@ -7,11 +7,11 @@ Please check out our Youtube video on how to use the app. We promise it is user 
 
 ### What is MedReminder
 
-MedReminder is an app available to all ages. It helps the user remember to take their medication at a schedule time, keep track of how much of their medication they have left, and when to get a refill before they run out.  MedReminder is meant to aid those whose lives are too hectic, whose minds are too wonderous, or whose memories are too brief to keep up with what is most important to all us...our health.  Because your privacy is one of our top priorities you will be required to set a password and username so no one can just open up the app and look through you information.  This way you can fill safe putting in your personal information. Are goal for creating this app is to help users of all races, ages, and culture to be able to stay on top of their health and we hope to be able to achieve this goal with you!
+MedReminder is an app accessble to all ages. It helps the user remember to take their medication at a scheduled time, keeping track of how much of their medication they have left, and when to get a refill before they run out.  MedReminder is meant to aid those whose lives are too hectic, whose minds are too wonderous, or whose memories are too brief to keep up with what is most important to all us...our health.  Because your privacy is one of our top priorities you will be required to set up a password and username so no one can just open up the app and look through your information.  This way you can feel safe putting in your personal information. Are goal for creating this app is to help users of all races, ages, and cultures to be able to stay on top of their health and we hope to be able to achieve this goal with you!
 
 ### How To Get Started
 
-Below are step by step instructions to get you set up with your very own-secured-MedReminder account.  It sounds like a lot but it actually really simple straight forward!
+Below there are step by step instructions on how to get you set up with your very own-secured-MedReminder account.  It sounds like a lot but it actually is really simple straight forward!
 
 
 
