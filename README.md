@@ -1,6 +1,6 @@
 ## Welcome to the MedReminder Home Page
 
-You can use the [Link Here ](https://github.com/brianaus98/lgtow.github.io/edit/master/README.md) to view are Youtube video
+You can use the [Link Here ](https://youtu.be/Bkevtr9tngk-) to view are Youtube video
 on how to use the app. We promise it is user friendly to ALL users!
 
 
