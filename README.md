@@ -13,26 +13,25 @@ MedReminder is an app available for all ages. It helps the user remind them to t
 Below are step by step instructions to get you set up with your very own-secured-MedReminder account, fill in your prescriptions, and set your reminder.  It sounds like a lot but it actually really simple straight forward!
 
 
-![IMG_3031](https://user-images.githubusercontent.com/54367282/80047942-bc987100-84dc-11ea-8793-a89d951ac083.png)
-# Step 1
 
-![IMG_3039](https://user-images.githubusercontent.com/54367282/80047986-dc2f9980-84dc-11ea-9409-4df531708163.png)
+![IMG_3031](https://user-images.githubusercontent.com/54367282/80048233-94f5d880-84dd-11ea-9388-2ec2f82f172e.png)
+
+## Step 1
+
+![IMG_3032](https://user-images.githubusercontent.com/54367282/80048250-a50db800-84dd-11ea-91ff-feeee52b0751.png)
+
 ## Step 2
 
-![IMG_3032](https://user-images.githubusercontent.com/54367282/80047280-01230d00-84db-11ea-8ef9-689b40497d67.png)
+![IMG_3035](https://user-images.githubusercontent.com/54367282/80048269-b656c480-84dd-11ea-99cd-426ca1f33948.png)
 
-### Step 3
-![IMG_3032](https://user-images.githubusercontent.com/54367282/80047311-19932780-84db-11ea-9581-86c6a96cd759.png)
-
-#### Step 4
-![IMG_3035](https://user-images.githubusercontent.com/54367282/80047341-316aab80-84db-11ea-8a4d-94fe5d3cf5a6.png)
-
-##### Step 5
-![IMG_3036](https://user-images.githubusercontent.com/54367282/80047404-52330100-84db-11ea-9420-decad3df606e.png)
+## Step 3
+![IMG_3037](https://user-images.githubusercontent.com/54367282/80048343-ec944400-84dd-11ea-9693-81dd6a524e67.png)
 
 
-###### Step 6
-![IMG_3036](https://user-images.githubusercontent.com/54367282/80047607-deddbf00-84db-11ea-8cb3-3050288d73b8.png)
+![IMG_3039](https://user-images.githubusercontent.com/54367282/80048368-f8800600-84dd-11ea-838e-1a86f9adf48e.png)
+
+## Step 4
+
 
 ```markdown
 Syntax highlighted code block
