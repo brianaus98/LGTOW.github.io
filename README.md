@@ -51,10 +51,10 @@ Once all this is done you can go to the calender of the app.  The calender will 
 We hope that you find MedReminder to be useful and effective in improving your lifestyle and taking some at least one of the million things you have to remember off your mind.  And by we... well I guess it's time to introduce to you the team. 
 
 # Creators
-William Hudson
-Kaitlyn Ash
-Talin Arya
-Briana Stansberry
+William Hudson,
+Kaitlyn Ash,
+Talin Arya,
+Briana Stansberry,
 
 ## Thank you for taking the time to look at our page. Please stay safe and enjoy the benefits of using MedReminder
 
