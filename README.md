@@ -1,6 +1,6 @@
 ## Welcome to the MedReminder Home Page
 
-Please check out our Youtube video on how to our app. We promise it is user friendly! 
+Please check out our Youtube video on how to use the app. We promise it is user friendly! 
 [![](https://img.youtube.com/vi/Bkevtr9tngk/0.jpg)](https://www.youtube.com/watch?v=Bkevtr9tngk) 
 
 
