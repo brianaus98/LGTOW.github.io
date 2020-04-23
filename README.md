@@ -49,7 +49,7 @@ You can add and delete prescriptions as often as you like. You can also edit the
 
 ## Step 5
 
-Once all this is done you can view your schedule on the calender.  The calender will highlight a prescription with a specific colored dot.  If you don't know what color dot represents what prescription you can look at the bottom of your screen and the name of your prescription will appear in a circle the same color as the dot in the calender.  The calender will also highlight the days you are scedule to take you prescription.  
+Once all this is done you can view your schedule on the calender.  The calender will highlight a prescription with a specific colored dot.  If you don't know what color dot represents what prescription you can look at the bottom of your screen and the name of your prescription will appear in a circle in the same color as the dot in the calender.  The calender will also highlight the days you are sceduled to take you prescription.  
 
 
 # Thank You For Choosing Our App
