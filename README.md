@@ -4,7 +4,7 @@ Please check out our Youtube video on how to use the app. We promise it is user 
 [![](https://img.youtube.com/vi/Bkevtr9tngk/0.jpg)](https://www.youtube.com/watch?v=Bkevtr9tngk) 
 
 
-https://www.youtube.com/embed/Bkevtr9tngk
+(https://www.youtube.com/embed/Bkevtr9tngk)
 
 
 
