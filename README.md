@@ -41,7 +41,7 @@ If you don't like the original color scheme of the app you can change it to fit 
 ![IMG_3039](https://user-images.githubusercontent.com/54367282/80048368-f8800600-84dd-11ea-838e-1a86f9adf48e.png)
 
 ## Step 4
-The next step is to set up your prescription schedules.  Hit the pills icon on the bottom right screen and it will open up to another page.  Click the plus sign at the top to add a prescription and fill out the necessary information.
+The next step is to set up your schedule for take your prescriptions.  Hit the pills icon on the bottom right screen and it will open up to another page.  Click the plus sign at the top to add a prescription and fill out the necessary information.
 You can add and delete prescriptions as often as you like. You can also edit the information of your input.
 
 
