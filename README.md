@@ -36,7 +36,7 @@ If you don't like the original color scheme of the app you can change it to fit 
 ![IMG_3039](https://user-images.githubusercontent.com/54367282/80048368-f8800600-84dd-11ea-838e-1a86f9adf48e.png)
 
 ## Step 4
-You next step is to set up your prescription notifactions.  Hit the pills icon on the bottom right screen and it will open up to another page.  Click the plus sign at the top to add a prescription and fill out the necessarry information.
+The next step is to set up your prescription notifactions.  Hit the pills icon on the bottom right screen and it will open up to another page.  Click the plus sign at the top to add a prescription and fill out the necessarry information.
 You can add and delete prescriptions as often as you like. You can also edit the information of your input.
 
 
@@ -44,7 +44,7 @@ You can add and delete prescriptions as often as you like. You can also edit the
 
 ## Step 5
 
-Once all this is done you can go to the app calender.  The calender will highlight a prescription with a specific colored dot.  If you don't know what color dot represents what prescription you can look at the bottom of your screen and the name of your prescription will appear in a circle the same color as the dot in the calender.  The calender will also highlight the days you are scedule to take you prescription. Of course you don't have to look in the app directly to be reminded.  Once a prescription is saved into the calender your phone will be sent notifcations and reminders on when it's time for you to take medicine. 
+Once all this is done you can view your schedule on the calender.  The calender will highlight a prescription with a specific colored dot.  If you don't know what color dot represents what prescription you can look at the bottom of your screen and the name of your prescription will appear in a circle the same color as the dot in the calender.  The calender will also highlight the days you are scedule to take you prescription. Of course you don't have to look in the app directly to be reminded.  Once a prescription is saved into the calender your phone will be sent notifcations and reminders on when it's time for you to take medicine. 
 
 
 # Thank You For Choosing Our App
