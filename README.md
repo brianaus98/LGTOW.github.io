@@ -1,7 +1,7 @@
 ## Welcome to the MedReminder Home Page
 
 Please check out our Youtube video on how to our app. We promise it is user friendly! 
-[](https://www.youtube.com/embed/Bkevtr9tngk) 
+[![Screenshot_2020-04-22 medreminder app](https://user-images.githubusercontent.com/54367282/80059238-80bfd480-84f9-11ea-85ae-30aeab61e4fe.png)](https://www.youtube.com/embed/Bkevtr9tngk) 
 
 
 
