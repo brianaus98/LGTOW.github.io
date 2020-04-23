@@ -1,8 +1,8 @@
 ## Welcome to the MedReminder Home Page
 
-You can use the [![Screenshot_2020-04-22 medreminder app](https://user-images.githubusercontent.com/54367282/80056440-3a1aac00-84f2-11ea-8313-872de0edec39.png)
+Please check out our Youtube video on how to our app. We promise it is user friendly! [![Screenshot_2020-04-22 medreminder app](https://user-images.githubusercontent.com/54367282/80056440-3a1aac00-84f2-11ea-8313-872de0edec39.png)
  ](https://youtu.be/Bkevtr9tngk-) to view are Youtube video
-on how to use the app. We promise it is user friendly to ALL users!
+
 
 
 ### What is MedReminder
