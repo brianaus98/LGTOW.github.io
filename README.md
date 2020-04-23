@@ -25,6 +25,11 @@ To start using the app you will first have to create a profile along with a user
 
 ## Step 2
 After you create your profile your account will only be accessible through your username and password. This is to insure your right to your own privacy.
+
+
+
+
+
 ![IMG_3035](https://user-images.githubusercontent.com/54367282/80048269-b656c480-84dd-11ea-99cd-426ca1f33948.png)
 
 ## Step 3
